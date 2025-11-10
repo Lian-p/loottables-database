@@ -1,0 +1,1190 @@
+containers:
+  barrel:
+    items:
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: IRON_AXE
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: TUBE_CORAL_BLOCK
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_LEGGINGS
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SHIELD
+      percentage: 50.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: GOLDEN_APPLE
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 2
+      material: IRON_SWORD
+      percentage: 18.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 2
+      enchantments:
+        sharpness: 4
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: WIND_CHARGE
+      percentage: 10.0
+      modified: false
+      maxAmount: 3
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SUSPICIOUS_STEW
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: ENDER_PEARL
+      percentage: 8.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: EXPERIENCE_BOTTLE
+      percentage: 30.0
+      modified: false
+      maxAmount: 5
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND_AXE
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_HELMET
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 429
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_BOOTS
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_HELMET
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: LAVA_BUCKET
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: OAK_PLANKS
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_CHESTPLATE
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: COBWEB
+      percentage: 25.0
+      modified: false
+      maxAmount: 3
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 2
+      minEnchantments: 0
+      material: TNT
+      percentage: 8.0
+      modified: false
+      maxAmount: 5
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND
+      percentage: 35.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 8
+      minEnchantments: 0
+      material: COOKED_BEEF
+      percentage: 50.0
+      modified: false
+      maxAmount: 15
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 407
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_HELMET
+      percentage: 0.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        vanishing_curse: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 555
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_LEGGINGS
+      percentage: 0.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        vanishing_curse: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 7
+      minEnchantments: 0
+      material: SCAFFOLDING
+      percentage: 30.0
+      modified: false
+      maxAmount: 20
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 592
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_CHESTPLATE
+      percentage: 0.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        vanishing_curse: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: TURTLE_HELMET
+      percentage: 2.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        protection: 3
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: IRON_INGOT
+      percentage: 20.0
+      modified: false
+      maxAmount: 10
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: POLISHED_BLACKSTONE
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_CHESTPLATE
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: CROSSBOW
+      percentage: 15.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: FLINT_AND_STEEL
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_LEGGINGS
+      percentage: 15.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 2031
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_AXE
+      percentage: 2.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SPONGE
+      percentage: 10.0
+      modified: false
+      maxAmount: 2
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND_PICKAXE
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        efficiency: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: STONE
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: GOLDEN_CARROT
+      percentage: 13.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 481
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_BOOTS
+      percentage: 0.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        vanishing_curse: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SPLASH_POTION
+      percentage: 15.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects:
+      - duration: 1
+        icon: true
+        amplifier: 1
+        ambient: true
+        type: HEAL
+        particles: true
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_BOOTS
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 3
+      minEnchantments: 0
+      material: ARROW
+      percentage: 30.0
+      modified: false
+      maxAmount: 13
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: WATER_BUCKET
+      percentage: 40.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_LEGGINGS
+      percentage: 10.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        swift_sneak: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 2031
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_SWORD
+      percentage: 5.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        vanishing_curse: 1
+        sharpness: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: STICK
+      percentage: 25.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_SWORD
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        vanishing_curse: 1
+        sharpness: 2
+      potionEffects: []
+  chest:
+    items:
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: NETHERITE_LEGGINGS
+      percentage: 1.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        swift_sneak: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: FLINT_AND_STEEL
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: GOLDEN_CARROT
+      percentage: 20.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: LAVA_BUCKET
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: NETHERITE_CHESTPLATE
+      percentage: 2.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 2
+      enchantments:
+        vanishing_curse: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: TNT
+      percentage: 12.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: TUBE_CORAL_BLOCK
+      percentage: 45.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: STICK
+      percentage: 25.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 3
+      minEnchantments: 0
+      material: ARROW
+      percentage: 30.0
+      modified: false
+      maxAmount: 13
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SPONGE
+      percentage: 15.0
+      modified: false
+      maxAmount: 2
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 8
+      minEnchantments: 0
+      material: COOKED_BEEF
+      percentage: 35.0
+      modified: false
+      maxAmount: 25
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 2
+      material: NETHERITE_BOOTS
+      percentage: 1.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 2
+      enchantments:
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: CROSSBOW
+      percentage: 15.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_INGOT
+      percentage: 4.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: NETHERITE_HELMET
+      percentage: 2.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_LEGGINGS
+      percentage: 19.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SHIELD
+      percentage: 50.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: WATER_BUCKET
+      percentage: 40.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_CHESTPLATE
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: NETHERITE_CHESTPLATE
+      percentage: 1.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: IRON_INGOT
+      percentage: 25.0
+      modified: false
+      maxAmount: 10
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: EXPERIENCE_BOTTLE
+      percentage: 30.0
+      modified: false
+      maxAmount: 6
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_SWORD
+      percentage: 10.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        vanishing_curse: 1
+        sharpness: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 2
+      material: NETHERITE_BOOTS
+      percentage: 2.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 2
+      enchantments:
+        vanishing_curse: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND_LEGGINGS
+      percentage: 14.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        unbreaking: 2
+        swift_sneak: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: COBWEB
+      percentage: 35.0
+      modified: false
+      maxAmount: 3
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_AXE
+      percentage: 3.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: TURTLE_HELMET
+      percentage: 5.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        protection: 3
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_HELMET
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_LEGGINGS
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_CHESTPLATE
+      percentage: 33.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_BOOTS
+      percentage: 33.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SUSPICIOUS_STEW
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: NETHERITE_PICKAXE
+      percentage: 13.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        efficiency: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: OAK_PLANKS
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND_AXE
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: SPLASH_POTION
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects:
+      - duration: 20
+        icon: true
+        amplifier: 1
+        ambient: true
+        type: HEAL
+        particles: true
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 7
+      minEnchantments: 0
+      material: SCAFFOLDING
+      percentage: 30.0
+      modified: false
+      maxAmount: 20
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_HELMET
+      percentage: 33.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 2
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 2
+      material: NETHERITE_HELMET
+      percentage: 2.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 2
+      enchantments:
+        vanishing_curse: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: GOLDEN_APPLE
+      percentage: 30.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: NETHERITE_LEGGINGS
+      percentage: 2.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        vanishing_curse: 1
+        protection: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: DIAMOND_SWORD
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        vanishing_curse: 1
+        sharpness: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: WIND_CHARGE
+      percentage: 13.0
+      modified: false
+      maxAmount: 3
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: STONE
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: TOTEM_OF_UNDYING
+      percentage: 3.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND_PICKAXE
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments:
+        efficiency: 2
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: IRON_BOOTS
+      percentage: 25.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        unbreaking: 1
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 1
+      material: NETHERITE_LEGGINGS
+      percentage: 1.5
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 1
+      enchantments:
+        protection: 1
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: IRON_AXE
+      percentage: 20.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 2
+      material: IRON_SWORD
+      percentage: 18.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 2
+      enchantments:
+        sharpness: 4
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: DIAMOND
+      percentage: 35.0
+      modified: false
+      maxAmount: 4
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 1
+      minEnchantments: 0
+      material: ENDER_PEARL
+      percentage: 13.0
+      modified: false
+      maxAmount: 1
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
+    - minDurability: 0
+      maxDurability: 0
+      minAmount: 10
+      minEnchantments: 0
+      material: POLISHED_BLACKSTONE
+      percentage: 40.0
+      modified: false
+      maxAmount: 64
+      maxEnchantments: 0
+      enchantments: {}
+      potionEffects: []
